@@ -1,7 +1,7 @@
 # easing-functions-openprocessing
 Easing (tweening, smooth transitions, non-linear interpolation) functions examples for [Openprocessing](https://www.openprocessing.org)
 
-![](easing-functions-openprocessing.gif)
+![](easing_functions_openprocessing.gif)
 
 OpenProcessing sketch: https://www.openprocessing.org/sketch/704099
 
